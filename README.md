@@ -43,4 +43,4 @@ Follow the instructions there to set the directory of your player. In my case wh
 <br>![The cake is a lie.](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Twitch_GUI_SS_Python.png)
 
 <br>Streamlink
-[The cake is a lie.](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Twitch_GUI_SS_Streamlink.png
+[The cake is a lie.](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Twitch_GUI_SS_Streamlink.png)
