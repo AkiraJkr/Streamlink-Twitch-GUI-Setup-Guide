@@ -44,3 +44,15 @@ Follow the instructions there to set the directory of your player. In my case wh
 
 <br>Streamlink
 <br>![The cake is a lie.](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Twitch_GUI_SS_Streamlink.png)
+
+<br>After you're done, please make sure these specific settings are exactly as in the image below.
+<br>![I'm out of easter eggs, could you give me some?](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Twitch_GUI_SS_Streaming.png)
+
+<br>2 - On the "Player" tab, pick the preset that matches your player, and then select it's executable. If you're this far, I don't need to guide you with that. The rest of the settings is up to you.
+<br>![I'll gift candy if you do.](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Twitch_GUI_SS_Player.png)
+
+# The End
+
+You're now ready to use Streamlink Twitch GUI to use Twitch and not worry about performance issues, just make sure your PC isn't THAT bad and your network can handle the streams you're watching. Remember, the app is VERY customizable.
+
+<br>![Oh wow. This was a very epic journey, I am very content that you went all this way for such an heartwarming text. Here I am thinking a wall of text to write as an easter egg for the fanatics, but well, there is nothing to write. Not even a recipe. That wouldn't be original. So, uh, yeah. Please don't sue me Nintendo for this image okay?](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/The_End.png)
