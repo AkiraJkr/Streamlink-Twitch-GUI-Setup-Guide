@@ -26,7 +26,7 @@ Follow the instructions there to set the directory of your player. In my case wh
 
 <br>To use Streamlink, open CMD, and type "streamlink URL quality".(Of course, switch URL for the stream's link and quality for...the quality. AKA 720p, 720p60, etc) Be aware it only supports several services. Check Streamlink's website for more info.
 
-==OPTIONAL==
-==Low Latency Support==
+
+<br>**==OPTIONAL== ==Low Latency Support==**
 <br>3 - Download [this](https://gist.github.com/back-to/8e9ed3c60e5932d8c7a67ccd43b906d0/) plugin here, and back at the %APPDATA%/streamlink folder, create a plugins folder, and extract twitch.py on it. You may need [7-Zip](https://www.7-zip.org/) to open and extract the plugin.
 <br>![Nope, no easter eggs here, go home.](https://raw.githubusercontent.com/AkiraJkr/Streamlink-Twitch-GUI-Setup-Guide/master/data/Streamlink_Setup_3.png)
